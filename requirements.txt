@@ -1,0 +1,13 @@
+Cython
+filterpy
+imutils
+jupyter
+matplotlib
+numba
+opencv-contrib-python
+pandas
+Pillow
+progressbar
+scikit-image
+scikit-learn
+scipy
